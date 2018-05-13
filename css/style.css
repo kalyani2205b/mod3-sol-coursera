@@ -1,0 +1,55 @@
+body {
+	
+	font-size: 25px;
+	background-color: pink;
+	color: #fff;
+}
+/* Header */
+.navbar{
+	background-color: #7A0256;
+}
+
+
+.navbar-brand {/*my kitty*/
+	/*font-family: */
+	color: #FD83CE;
+	font-size:1.2em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px,1px,1px,#222;
+	margin-top:0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+	background: blue;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: green;
+}
+#nav-list a span {
+  font-size: 1.2em;
+}
+
+#chicken-recipe{
+	background-color: FA07B0;
+	margin-top: 20px;
+		border: 2px solid #3F0C1F;
+}
+h3{
+	
+	margin-top: 20px;
+	text-align: center;
+}
+
+}
+
+
+
+
